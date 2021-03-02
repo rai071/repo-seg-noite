@@ -6,4 +6,4 @@
 	+ Uma *lista italica*
 	+ Uma **lista negrito**
 	
-	[Esse é o link] (http://google.com.br)
+	[Esse é o link](http://google.com.br)
